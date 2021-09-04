@@ -1,0 +1,1 @@
+<img src="/imagem/interface.png" alt="Interface do validador de CPF"/>
